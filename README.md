@@ -1,6 +1,6 @@
 # Week 6: Pima Indians Diabetes Classification
 
-Model tuning and validation project for the AnalystLab Africa Machine Learning Internship (Batch A). This project builds a baseline Logistic Regression classifier on the Pima Indians Diabetes dataset, applies hyperparameter tuning via GridSearchCV with 5-fold cross-validation, and compares model performance before and after tuning.
+Model tuning and validation project for the AnalystLab Africa Machine Learning Internship. This project builds a baseline Logistic Regression classifier on the Pima Indians Diabetes dataset, applies hyperparameter tuning via GridSearchCV with 5-fold cross-validation, and compares model performance before and after tuning.
 
 ## Problem Statement
 
