@@ -48,7 +48,7 @@ Zeros in the five affected columns were converted to `NaN`, then imputed based o
 | Precision | 0.6667 | 0.6667 |
 | Recall | 0.6182 | 0.6182 |
 | F1-Score | 0.6415 | 0.6415 |
-| ROC-AUC | 0.8211 | 0.5 |
+| ROC-AUC | 0.8211 | 0.8231 |
 
 **Best hyperparameters found:** `C=1` (matches scikit-learn's default)
 
